@@ -1,2 +1,0 @@
-# democalendar
-Created with CodeSandbox
